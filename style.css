@@ -1,0 +1,27 @@
+    nav {
+        display: inline;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+    #definition {
+    
+        color: rgb(94, 68, 185);
+    }
+    .definition {
+        color: black;
+        background-image: url("https://www.google.com/search?q=background%20image%20css&tbm=isch&hl=en&tbs=rimg:CU8SOSMcY8c6YW1zcd1eXEwj8AEAsgIMCgIIABAAOgQIABAA&sa=X&ved=0CB4QuIIBahcKEwjIjbDOnqP7AhUAAAAAHQAAAAAQHg&biw=1349&bih=635#imgrc=YZ-tL-iURTlgHM");
+    }
+    #contactus {
+        color: rgb(94, 68, 185);
+    }
+    #weblanguages {
+    color: rgb(94, 68, 185);
+    }
+    #resume {
+    color: rgb(94, 68, 185);
+    }
+    body {
+        background-image: url(/rm222batch2-mind-03.jpg);
+    }
+
+    
